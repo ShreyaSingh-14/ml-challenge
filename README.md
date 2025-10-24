@@ -95,7 +95,6 @@ Participants are **STRICTLY NOT ALLOWED** to obtain prices from the internet, ex
 - All submitted approaches, methodologies, and code pipelines will be thoroughly reviewed and verified
 - Any evidence of external price lookup or data augmentation from internet sources will result in **immediate disqualification**
 
-**Fair Play:** This challenge is designed to test your machine learning and data science skills using only the provided training data. External price lookup defeats the purpose of the challenge.
 
 
 ### Tips for Success:
