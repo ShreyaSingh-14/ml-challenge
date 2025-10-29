@@ -14,12 +14,7 @@ The dataset consists of the following columns:
    Example link - https://m.media-amazon.com/images/I/71XfHPR36-L.jpg
    To download images use `download_images` function from `src/utils.py`. See sample code in `src/test.ipynb`.
 4. **price:** Price of the product (Target variable - only available in training data)
-
-### Dataset Details:
-
-- **Training Dataset:** 75k products with complete product details and prices
-- **Test Set:** 75k products for final evaluation
-
+\
 ### Output Format:
 
 The output file should be a CSV with 2 columns:
